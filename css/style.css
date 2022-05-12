@@ -1,0 +1,192 @@
+* {
+    list-style: none !important;
+    text-decoration: none !important;
+    background-size: 100% 100%;
+
+}
+
+.sec1{
+    height: 100vh;
+    background-image: url(../images/slideshow-1.jpg);
+    background-size: 100% 100%;
+}
+.webcolor{
+    color: #F35454 !important;
+}
+.navbarcolor{
+    color: white !important;
+}
+.navbarcolor:hover{
+    color: #F35454 !important;
+}
+.navbar::after{
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    color: orange;
+   
+    
+}
+.botan{
+   margin-right: 100%;
+   border-left: transparent !important;
+    
+}
+.borer12{
+    border-top: 1px solid white;
+    
+}
+
+button{
+    border: transparent;
+}
+button:hover{
+    color: #F35454;
+}
+.fontsizes{
+    font-size: 50px;
+    color: white;
+}
+.refva:hover{
+    background-color: white !important;
+}
+.settings{
+    position: fixed;
+    top: 25%;
+    left: 0;
+    border: 1px rgb(41, 37, 37) solid;
+    border-radius: 2px;
+
+    font-size: 18px;
+    background-color: rgb(41, 37, 37);
+    color: white;
+}
+a{
+    text-decoration: none;
+    list-style: none;
+
+}
+.settings a{
+    color: white;
+}
+.Alight{
+    color: rgba(0, 0, 0, 0.1);
+    font-size: 100px;
+}
+.progress{
+    height: 3px;
+    
+}
+.progress1{
+    margin-top: 20px !important;
+}
+.width85{
+    width: 80%;
+}
+.width90{
+    width: 90%;
+}
+.pesrws{
+    margin-left: 65%;
+    
+}
+.pesrws2{
+    margin-left: 60%;
+    
+}
+.pesrws3{
+    margin-left: 35%;
+    
+}
+.pesrws4{
+    margin-left: 75%;
+    
+}
+.progress1 h6{
+    color: rgb(46, 40, 40);
+}
+.blugr{
+    border: transparent 2px solid;
+    border-radius: 5px;
+    padding: 0 0 !important;
+}
+.cocv{
+    
+    background-color: transparent;
+    position: absolute;
+    top: 0;
+    right: 4%;
+    left: 4%;
+   bottom: 18%;
+    color: transparent;
+    transition: 0.5s all;
+    
+}
+.cocv:hover{
+    background: rgba(239, 104, 102, 0.8);
+    color: white !important;
+}
+.cocv i{
+    margin-top: 70%;
+    margin: 70% 10 0 20;
+}
+.btn a{
+    color: white;
+}
+.sec4{
+    background-color: #FAFAFA;
+}
+.hysgy{
+    color: black;
+    transform: 0.5s all;
+}
+.hysgy:hover{
+    color: #F35454;
+}
+.dadf{
+    background-image: url(../images/client-1.png);
+    width: 150px !important;
+    height: 150px !important;
+   
+    
+}
+.carousel-item img{
+width: 200px;
+height: 200px;
+margin:0 40%;
+margin-bottom: 12%;
+border: 1px transparent solid;
+border-radius: 10px;
+}
+.carousel{
+margin-top: 10% !important;
+}
+.sec6{
+    background-color: #FAFAFA;
+}
+.adsdc{
+    font-size: 40px;
+}
+.aere{
+    border: 1px solid #14101027 !important;
+    border-radius: 5px !important; 
+}
+.aere:hover{
+    border-color: #F35454 !important;
+}
+.gdgdf{
+    margin-left: 69%;
+    margin-top: 5%;
+    padding: 20 20;
+    
+}
+.sec7{
+    background-color: rgb(46, 44, 44);
+}
+.hgfhf{
+    font-size: 16px;
+    color: white;
+}
